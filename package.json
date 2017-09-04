@@ -1,7 +1,7 @@
 {
   "name": "eclipsed-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.0.0",
   "description": "A dark syntax theme using the solarized colors and then darker",
   "repository": "https://github.com/joshuacox/eclipsed-syntax",
   "license": "MIT",
